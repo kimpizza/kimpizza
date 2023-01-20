@@ -15,7 +15,7 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
 ---
 ### 2023년도
 
-|일 자|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;구 분&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;내 용&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|주 소|
+|일 자|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;구 분&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;내 용&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|주 소|
 |-----|--------|-------|----|
 |2023.01.19|자료구조|재귀함수|https://velog.io/@posasac/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98|
 |2023.01.20|알고리즘|백준 2588|https://velog.io/@posasac/%EB%B0%B1%EC%A4%802588%EB%B2%88%EA%B3%B1%EC%85%88|
