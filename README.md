@@ -22,3 +22,4 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
 |2023.01.27|CS|디자인패턴:팩토리패턴|https://velog.io/@posasac/1.-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%8C%A8%ED%84%B4|
 ||CS|SE vs EE|https://velog.io/@posasac/CS-Java-SE%EC%99%80-Java-EE|
 ||CS|Thread|https://velog.io/@posasac/CS%EC%8A%A4%EB%A0%88%EB%93%9CThread|
+||CS|GC|https://velog.io/@posasac/CSGC-Garbage-Collection%EC%9E%91%EC%84%B1%EC%A4%91|
