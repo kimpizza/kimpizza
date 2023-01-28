@@ -24,3 +24,4 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
 ||CS|Thread|https://velog.io/@posasac/CS%EC%8A%A4%EB%A0%88%EB%93%9CThread|
 ||CS|GC|https://velog.io/@posasac/CSGC-Garbage-Collection%EC%9E%91%EC%84%B1%EC%A4%91|
 ||Spring|회원관리예제|https://velog.io/@posasac/Spring%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EC%A0%95%EB%A6%AC|
+  
