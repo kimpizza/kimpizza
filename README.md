@@ -10,7 +10,7 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
 
 |일 자|구 분|내 용|주 소|
 |-----|----|-------|----|
-|2023.01.19|자료구조|재귀함수|https://velog.io/@posasac/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98|
+|2023.01.19|알고리즘|재귀함수|https://velog.io/@posasac/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98|
 |2023.01.20|알고리즘|백준 2588|https://velog.io/@posasac/%EB%B0%B1%EC%A4%802588%EB%B2%88%EA%B3%B1%EC%85%88|
 |||백준 8958|https://velog.io/@posasac/%EB%B0%B1%EC%A4%808958OX%ED%80%B4%EC%A6%88|
 |||백준 4344|https://velog.io/@posasac/%EB%B0%B1%EC%A4%804344%ED%8F%89%EA%B7%A0%EC%9D%80-%EB%84%98%EA%B2%A0%EC%A7%80|
@@ -27,3 +27,4 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
 |2023.01.31|알고리즘|백준 2798|https://velog.io/@posasac/%EB%B0%B1%EC%A4%802798%EB%B8%94%EB%9E%99%EC%9E%AD|
 |||백준 15829|https://velog.io/@posasac/%EB%B0%B1%EC%A4%8015829Hashing|
 |||백준 1259|https://velog.io/@posasac/%EB%B0%B1%EC%A4%801259%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98|
+|||순열과 조합|https://velog.io/@posasac/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%88%9C%EC%97%B4%EA%B3%BC-%EC%A1%B0%ED%95%A9|
