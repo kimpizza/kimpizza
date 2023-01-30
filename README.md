@@ -28,3 +28,4 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
 |||백준 15829|https://velog.io/@posasac/%EB%B0%B1%EC%A4%8015829Hashing|
 |||백준 1259|https://velog.io/@posasac/%EB%B0%B1%EC%A4%801259%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98|
 |||순열과 조합|https://velog.io/@posasac/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%88%9C%EC%97%B4%EA%B3%BC-%EC%A1%B0%ED%95%A9|
+||CS|GC|https://velog.io/@posasac/CSGC-Garbage-Collection|
