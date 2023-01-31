@@ -23,9 +23,15 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
 ||CS|SE vs EE|https://velog.io/@posasac/CS-Java-SE%EC%99%80-Java-EE|
 ||CS|Thread|https://velog.io/@posasac/CS%EC%8A%A4%EB%A0%88%EB%93%9CThread|
 ||CS|GC|https://velog.io/@posasac/CSGC-Garbage-Collection%EC%9E%91%EC%84%B1%EC%A4%91|
-||Spring|회원관리예제|https://velog.io/@posasac/Spring%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EC%A0%95%EB%A6%AC|
-|2023.01.31|알고리즘|백준 2798|https://velog.io/@posasac/%EB%B0%B1%EC%A4%802798%EB%B8%94%EB%9E%99%EC%9E%AD|
+||Spring|회원관리예제 1|https://velog.io/@posasac/Spring%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EC%A0%95%EB%A6%AC|
+|2023.01.30|알고리즘|백준 2798|https://velog.io/@posasac/%EB%B0%B1%EC%A4%802798%EB%B8%94%EB%9E%99%EC%9E%AD|
 |||백준 15829|https://velog.io/@posasac/%EB%B0%B1%EC%A4%8015829Hashing|
 |||백준 1259|https://velog.io/@posasac/%EB%B0%B1%EC%A4%801259%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98|
 |||순열과 조합|https://velog.io/@posasac/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%88%9C%EC%97%B4%EA%B3%BC-%EC%A1%B0%ED%95%A9|
 ||CS|GC|https://velog.io/@posasac/CSGC-Garbage-Collection|
+|2023.01.31|Spring|회원관리예제 2|https://velog.io/@posasac/Spring%ED%9A%8C%EC%9B%90%EA%B4%80%EB%A6%AC%ED%9A%8C%EC%9B%90-%EB%8F%84%EB%A9%94%EC%9D%B8%EA%B3%BC-%EB%A6%AC%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0|
+|||회원관리예제 3||
+||알고리즘|백준 1085|https://velog.io/@posasac/%EB%B0%B1%EC%A4%801085%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C-%ED%83%88%EC%B6%9C|
+|||백준 4153|https://velog.io/@posasac/%EB%B0%B1%EC%A4%804153%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95|
+|||백준 10250|https://velog.io/@posasac/%EB%B0%B1%EC%A4%8010250ACM-%ED%98%B8%ED%85%94|
+||CS|Spring Framework|https://velog.io/@posasac/CS-Spring-Framework|
