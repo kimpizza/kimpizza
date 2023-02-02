@@ -38,3 +38,4 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
 |2022.02.01|Spring|회원관리예제 4|https://velog.io/@posasac/Spring%ED%9A%8C%EC%9B%90%EA%B4%80%EB%A6%AC-%ED%9A%8C%EC%9B%90-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C|
 |||회원관리예제 5|https://velog.io/@posasac/Spring%ED%9A%8C%EC%9B%90%EA%B4%80%EB%A6%AC%ED%9A%8C%EC%9B%90-%EC%84%9C%EB%B9%84%EC%8A%A4|
 ||CS|DI|https://velog.io/@posasac/CSDIDependency-Injection-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%A3%BC%EC%9E%85|
+|1023.02.02|알고리즘|백준 2775|https://velog.io/@posasac/%EB%B0%B1%EC%A4%802775%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4-%EB%90%A0%ED%85%8C%EC%95%BC|
