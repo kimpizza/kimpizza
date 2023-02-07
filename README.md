@@ -40,3 +40,7 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
 ||CS|DI|https://velog.io/@posasac/CSDIDependency-Injection-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%A3%BC%EC%9E%85|
 |2023.02.02|알고리즘|백준 2775|https://velog.io/@posasac/%EB%B0%B1%EC%A4%802775%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4-%EB%90%A0%ED%85%8C%EC%95%BC|
 |2023.02.06|CS|OOP|https://velog.io/@posasac/CSOOP-Object-Oriented-Programming%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D|
+|2023.02.07|알고리즘|백준 1436|https://velog.io/@posasac/%EB%B0%B1%EC%A4%801436%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85-%EC%88%8C|
+|||백준 1978|https://velog.io/@posasac/%EB%B0%B1%EC%A4%801978%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0|
+|||백준 1181|https://velog.io/@posasac/%EB%B0%B1%EC%A4%801181%EB%8B%A8%EC%96%B4-%EC%A0%95%EB%A0%AC|
+|||백준 2292|https://velog.io/@posasac/%EB%B0%B1%EC%A4%802292%EB%B2%8C%EC%A7%91|
