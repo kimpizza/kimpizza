@@ -44,3 +44,5 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
 |||백준 1978|https://velog.io/@posasac/%EB%B0%B1%EC%A4%801978%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0|
 |||백준 1181|https://velog.io/@posasac/%EB%B0%B1%EC%A4%801181%EB%8B%A8%EC%96%B4-%EC%A0%95%EB%A0%AC|
 |||백준 2292|https://velog.io/@posasac/%EB%B0%B1%EC%A4%802292%EB%B2%8C%EC%A7%91|
+|2023.02.09|CS|OSI 7계층|https://velog.io/@posasac/CSOSI-7-%EA%B3%84%EC%B8%B5|
+|||TCP/UDP|https://velog.io/@posasac/CSTCP-UDP|
