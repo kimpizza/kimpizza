@@ -5,7 +5,7 @@
 Java에 관심이 많은 백엔드 개발자 김유리입니다.
 
 <details>
-<summary>2023년 블로그 정리</summary>
+<summary>### 2023년 블로그 정리</summary>
 <div markdown="1">
 ---
 
