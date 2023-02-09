@@ -4,9 +4,10 @@
 
 Java에 관심이 많은 백엔드 개발자 김유리입니다.
 
-
+<details>
+<summary>2023년 블로그 정리</summary>
+<div markdown="1">
 ---
-### 2023년도 블로그 정리 
 
 |일 자|구 분|내 용|주 소|
 |-----|----|-------|----|
@@ -46,3 +47,5 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
 |||백준 2292|https://velog.io/@posasac/%EB%B0%B1%EC%A4%802292%EB%B2%8C%EC%A7%91|
 |2023.02.09|CS|OSI 7계층|https://velog.io/@posasac/CSOSI-7-%EA%B3%84%EC%B8%B5|
 |||TCP/UDP|https://velog.io/@posasac/CSTCP-UDP|
+  </div>
+</details>
