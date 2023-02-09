@@ -6,7 +6,7 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
 
 ### 2023년 블로그 
 <details>
-<summary>펼치기</summary>
+<summary>펼치기/</summary>
 <div markdown="1">
 ---
 
