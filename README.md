@@ -49,7 +49,7 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
 |2023.02.09|CS|OSI 7계층|https://velog.io/@posasac/CSOSI-7-%EA%B3%84%EC%B8%B5|
 |||TCP/UDP|https://velog.io/@posasac/CSTCP-UDP|
 |2023.02.10|자료구조|List|https://velog.io/@posasac/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0List-%EB%A6%AC%EC%8A%A4%ED%8A%B8|
-||알고리즘|프로그래머스 자연수 뒤집어 배열로 만들기|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%9E%90%EC%97%B0%EC%88%98-%EB%92%A4%EC%A7%91%EC%96%B4-%EB%B0%B0%EC%97%B4%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0|
+||알고리즘|자연수 뒤집어 배열로 만들기|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%9E%90%EC%97%B0%EC%88%98-%EB%92%A4%EC%A7%91%EC%96%B4-%EB%B0%B0%EC%97%B4%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0|
   |||순열 검사|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%88%9C%EC%97%B4-%EA%B2%80%EC%82%AC|
   |||최댓값 인덱스 구하기|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%B5%9C%EB%8C%93%EA%B0%92-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EA%B5%AC%ED%95%98%EA%B8%B0|
   </div>
