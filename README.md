@@ -52,5 +52,7 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
 ||알고리즘|자연수 뒤집어 배열로 만들기|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%9E%90%EC%97%B0%EC%88%98-%EB%92%A4%EC%A7%91%EC%96%B4-%EB%B0%B0%EC%97%B4%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0|
   |||순열 검사|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%88%9C%EC%97%B4-%EA%B2%80%EC%82%AC|
   |||최댓값 인덱스 구하기|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%B5%9C%EB%8C%93%EA%B0%92-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EA%B5%AC%ED%95%98%EA%B8%B0|
+  |2023.02.11|알고리즘|백준 7568|https://velog.io/@posasac/%EB%B0%B1%EC%A4%807568%EB%8D%A9%EC%B9%98|
+  |||백준 10814|https://velog.io/@posasac/%EB%B0%B1%EC%A4%8010814%EB%82%98%EC%9D%B4%EC%88%9C-%EC%A0%95%EB%A0%AC|
   </div>
 </details>
