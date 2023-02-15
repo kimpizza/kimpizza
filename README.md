@@ -56,5 +56,6 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
   |||백준 10814|https://velog.io/@posasac/%EB%B0%B1%EC%A4%8010814%EB%82%98%EC%9D%B4%EC%88%9C-%EC%A0%95%EB%A0%AC|
   |2023.02.14|CS|TCP/IP|https://velog.io/@posasac/CSTCPIP|
   |2023.02.15|알고리즘|폰켓몬|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%ED%8F%B0%EC%BC%93%EB%AA%AC|
+  |||완주하지 못한 선수|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98|
   </div>
 </details>
