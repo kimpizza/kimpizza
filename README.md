@@ -59,6 +59,9 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
   |||완주하지 못한 선수|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%84%A0%EC%88%98|
   |2023.02.16|알고리즘|다음에 올 숫자|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%8B%A4%EC%9D%8C%EC%97%90-%EC%98%AC-%EC%88%AB%EC%9E%90|
   |||위장|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%9C%84%EC%9E%A5|
+  |||로또 번호 검출기|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%A1%9C%EB%98%90-%EB%B2%88%ED%98%B8-%EA%B2%80%EC%B6%9C%EA%B8%B0|
+  |||끝말 잇기|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%81%9D%EB%A7%90-%EC%9E%87%EA%B8%B0|
+  |||같은 숫자는 싫어|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EA%B0%99%EC%9D%80-%EC%88%AB%EC%9E%90%EB%8A%94-%EC%8B%AB%EC%96%B4|
   ||자료구조|Map|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%9C%84%EC%9E%A5|
   </div>
 </details>
