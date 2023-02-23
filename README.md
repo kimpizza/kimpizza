@@ -67,5 +67,8 @@ Java에 관심이 많은 백엔드 개발자 김유리입니다.
   ||알고리즘|올바른 괄호|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%98%AC%EB%B0%94%EB%A5%B8-%EA%B4%84%ED%98%B8|
   |2023.02.21|CS|JVM|https://velog.io/@posasac/CSJVM-Java-Virtual-Machine|
   |2023.02.22|CS|3, 4 way handshake|https://velog.io/@posasac/CS3-Way-Handshake-4-Way-Handshake|
+  |2023.02.23|알고리즘|기능개발|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C|
+  |||주식가격|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9|
+  |||프린터|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%ED%94%84%EB%A6%B0%ED%84%B0|
   </div>
 </details>
