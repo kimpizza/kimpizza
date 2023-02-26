@@ -71,5 +71,7 @@ Spring에 관심이 많은 백엔드 개발자 김유리입니다.
   |||주식가격|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9|
   |||프린터|https://velog.io/@posasac/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%ED%94%84%EB%A6%B0%ED%84%B0|
   |2023.02.24|CS|TCP 흐름제어|https://velog.io/@posasac/CSTCP-%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4|
+  |2023.02.25|Spring|Spring MVC|https://velog.io/@posasac/SpringSpring-MVC|
+  |2023.02.26|CS|HTTP & HTTPS|https://velog.io/@posasac/CSHTTP%EC%99%80-HTTPS|
   </div>
 </details>
