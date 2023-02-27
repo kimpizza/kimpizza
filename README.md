@@ -1,9 +1,5 @@
 # Back-end Developer, 김유리
 
-안녕하세요😀 
-
-Spring에 관심이 많은 백엔드 개발자 김유리입니다.  
-
 ### 2023년 블로그 
 <details>
 <summary>펼치기/접기</summary>
