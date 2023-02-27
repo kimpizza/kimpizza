@@ -1,6 +1,6 @@
 # Back-end Developer, 김유리
 
-### 2023년 블로그 
+### 2023년 블로그 정리
 <details>
 <summary>펼치기/접기</summary>
   
