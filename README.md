@@ -73,5 +73,6 @@ Spring에 관심이 많은 백엔드 개발자 김유리입니다.
   |2023.02.24|CS|TCP 흐름제어|https://velog.io/@posasac/CSTCP-%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4|
   |2023.02.25|Spring|Spring MVC|https://velog.io/@posasac/SpringSpring-MVC|
   |2023.02.26|CS|HTTP & HTTPS|https://velog.io/@posasac/CSHTTP%EC%99%80-HTTPS|
+  |2023.02.27|Spring|제어의 역전|https://velog.io/@posasac/SpringIoC-Inversion-of-Control%EC%A0%9C%EC%96%B4%EC%9D%98-%EC%97%AD%EC%A0%84|
   </div>
 </details>
