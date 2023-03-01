@@ -72,5 +72,6 @@
   |2023.02.27|Spring|제어의 역전|https://velog.io/@posasac/SpringIoC-Inversion-of-Control%EC%A0%9C%EC%96%B4%EC%9D%98-%EC%97%AD%EC%A0%84|
   |||DI 3가지 방법|https://velog.io/@posasac/Spring%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95|
   |2023.02.28|Spring|AOP|https://velog.io/@posasac/SpringAOP-Aspect-Oriented-Programming%EA%B4%80%EC%A0%90-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D|
+  |2023.03.01|Spring|POJO|https://velog.io/@posasac/SpringPOJO-Plain-Old-Java-Object|
   </div>
 </details>
