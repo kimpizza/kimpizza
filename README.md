@@ -73,6 +73,7 @@
   |||DI 3가지 방법|https://velog.io/@posasac/Spring%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95|
   |2023.02.28|Spring|AOP|https://velog.io/@posasac/SpringAOP-Aspect-Oriented-Programming%EA%B4%80%EC%A0%90-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D|
   |2023.03.01|Spring|POJO|https://velog.io/@posasac/SpringPOJO-Plain-Old-Java-Object|
-  |2023.03.02|Etc|mySQL|https://velog.io/@posasac/Etc.sqlmodeonlyfullgroupby-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0MacmySQL| 
+  |2023.03.02|Etc|mySQL|https://velog.io/@posasac/Etc.sqlmodeonlyfullgroupby-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0MacmySQL|
+  |2023.03.06|CS|REST, REST API, RESTful API|https://velog.io/@posasac/CSREST-REST-API-RESTful-API|
   </div>
 </details>
