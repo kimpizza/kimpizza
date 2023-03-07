@@ -77,5 +77,6 @@
   |2023.03.06|CS|REST, REST API, RESTful API|https://velog.io/@posasac/CSREST-REST-API-RESTful-API|
   |2023.03.07|Spring|Kakao API|https://velog.io/@posasac/SpringKakao-API-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0|
   ||Java|예외 처리|https://velog.io/@posasac/Java%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC|
+  ||Spring|Security|https://velog.io/@posasac/SpringSpring-Security1|
   </div>
 </details>
