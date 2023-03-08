@@ -78,5 +78,7 @@
   |2023.03.07|Spring|Kakao API|https://velog.io/@posasac/SpringKakao-API-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0|
   ||Java|예외 처리|https://velog.io/@posasac/Java%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC|
   ||Spring|Security|https://velog.io/@posasac/SpringSpring-Security1|
+  |2023.03.08|Spring|Security|https://velog.io/@posasac/SpringSpring-Security2|
+  ||CS|Network|https://velog.io/@posasac/CS%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90-URL%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%98%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%9D%BC%EC%9D%B4-%EC%83%9D%EA%B8%B8%EA%B9%8C|
   </div>
 </details>
