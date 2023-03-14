@@ -1,9 +1,11 @@
 # Back-end Developer, 김유리
 
 ### 2023년 블로그 정리
+https://velog.io/@posasac
+
 <details>
   
-<summary>펼치기/접기</summary>
+<summary>목차</summary>
   
 <div markdown="1">
 
