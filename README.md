@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=white&height=200&section=header&text=Back-end%Kim%Yu%rir&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=Auto&height=200&section=header&text=Back-end%Kim%Yu%rir&fontSize=50)
 
 ## 2023년 블로그 정리
 ### https://velog.io/@posasac
