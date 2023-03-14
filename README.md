@@ -2,6 +2,9 @@
 
 ### 2023년 블로그 정리
 <details>
+  
+<summary>펼치기/접기</summary>
+  
 <div markdown="1">
 
 |일 자|구 분|내 용|주 소|
