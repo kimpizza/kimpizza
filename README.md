@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Back-end%Engineer&Kim%Yu%ri&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Back-end%Engineer%"Kim%Yu%ri"&fontSize=50)
 
 ## 2023년 블로그 정리
 ### https://velog.io/@posasac
