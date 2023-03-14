@@ -1,7 +1,7 @@
 # Back-end Developer, 김유리
 
-### 2023년 블로그 정리
-https://velog.io/@posasac
+## 2023년 블로그 정리
+### https://velog.io/@posasac
 
 <details>
   
