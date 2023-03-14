@@ -2,8 +2,6 @@
 
 ### 2023년 블로그 정리
 <details>
-<summary>펼치기/접기</summary>
-  
 <div markdown="1">
 
 |일 자|구 분|내 용|주 소|
@@ -91,6 +89,7 @@
   |||백준 2331|https://velog.io/@posasac/%EB%B0%B1%EC%A4%802331%EB%B0%98%EB%B3%B5%EC%88%98%EC%97%B4|
   |2023.03.14|알고리즘|백준 2667|https://velog.io/@posasac/%EB%B0%B1%EC%A4%802667%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0|
   |||백준 2606|https://velog.io/@posasac/%EB%B0%B1%EC%A4%802606%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4|
+  |||백준 11724|https://velog.io/@posasac/%EB%B0%B1%EC%A4%8011724%EC%97%B0%EA%B2%B0-%EC%9A%94%EC%86%8C%EC%9D%98-%EA%B0%9C%EC%88%98|
   </div>
   
 </details>
