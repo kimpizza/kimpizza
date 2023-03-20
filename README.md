@@ -99,7 +99,7 @@
   |||백준 1697|https://velog.io/@posasac/%EB%B0%B1%EC%A4%801697%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88|
   ||Spring|Filter|https://velog.io/@posasac/SpringSpring-Filter|
   |2023.03.16|Spring|Spring Container|https://velog.io/@posasac/SpringSpring-Container|
-  |2023.03.17|자료구조|ArrayList & LinkedList|https://velog.io/@posasac/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0ArrayList%EC%99%80-LinkedLis%EC%9D%98-%EC%B0%A8%EC%9D%B4|
+  |2023.03.17|자료구조|ArrayList & LinkedList|https://velog.io/@posasac/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0ArrayList%EC%99%80-LinkedLis%EC%9D%98-%EC%B0%A8%EC%9D%B4| 
   </div> 
   
 </details>
