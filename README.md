@@ -103,6 +103,8 @@
   |2023.03.24|Spring|Spring & React 연동|https://velog.io/@posasac/SpringSpring-React-%EC%97%B0%EB%8F%99|
   |2023.03.25|Etc|JPA|https://velog.io/@posasac/Etc.JPA-Proxy-LAZY-EAGER|
   |2023.03.26|Spring|JSP vs Thymeleaf|https://velog.io/@posasac/SpringJSP-vs-Thymeleaf|
+  |2023.03.28|알고리즘|백준 1931|https://velog.io/@posasac/%EB%B0%B1%EC%A4%801931%ED%9A%8C%EC%9D%98%EC%8B%A4-%EB%B0%B0%EC%A0%95|
+  |||백준 11047|https://velog.io/@posasac/%EB%B0%B1%EC%A4%8011047%EB%8F%99%EC%A0%84-0|
   </div> 
   
 </details>
