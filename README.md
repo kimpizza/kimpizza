@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Back-end%20Engineer%20Kim%20Yuri&fontSize=50)
+![IMG_6889](https://user-images.githubusercontent.com/108074336/229422589-a59ab0e1-352e-4e6e-afb3-f7e24068ed95.PNG)
 
 ## 2023년 블로그 정리
 ### https://velog.io/@posasac
