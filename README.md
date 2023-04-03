@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Back-end%20Engineer%20Kim%20Yuri&fontSize=50)
-
+<div align="center">
+  
 ## 2023년 블로그 정리
 ### https://velog.io/@posasac
+
+</div>
 
 <details>
   
