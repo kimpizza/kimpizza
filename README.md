@@ -1,7 +1,8 @@
 
 <div align="center">
-![IMG_6889](https://user-images.githubusercontent.com/108074336/229424552-c0c6d503-942e-48d8-9d70-1e76638b2c3c.PNG)
   
+![IMG_6889](https://user-images.githubusercontent.com/108074336/229424799-9f217050-205f-4195-90f9-46740116b9c2.PNG)
+
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%239A9A9A&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://github.com/kimpizza)
   
