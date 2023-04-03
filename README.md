@@ -7,67 +7,6 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%239A9A9A&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://github.com/kimpizza)
 
-## Stack
-<table>
-    <tr>
-        <th>구분</th>
-        <th>내용</th>
-    </tr>
-    <tr>
-        <td>기본 사용언어</td>
-        <td>
-            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-        </td>
-    </tr>
-    <tr>
-        <td>Frontend 프레임워크</td>
-        <td>
-           <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-           <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-           <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-        </td>
-    </tr>
-    <tr>
-        <td>Backend 프레임워크</td>
-        <td>
-           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> 
-           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-        </td>
-    </tr>
-     <tr>
-        <td>라이브러리</td>
-        <td>
-            <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=white"/>
-        </td>
-    </tr>
-    <tr>
-        <td>개발도구</td>
-        <td>
-            <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-            <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-        </td>
-    </tr>
-    <tr>
-        <td>서버환경</td>
-        <td>
-            <img src="https://img.shields.io/badge/Apache Tomcat-D22128?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
-        </td>
-    </tr>
-    <tr>
-        <td>데이터베이스</td>
-        <td>
-             <img src="https://img.shields.io/badge/Oracle-4479A1?style=for-the-badge&logo=Oracle&logoColor=white"/> 
-        </td>
-    </tr>
-    <tr>
-        <td>협업도구</td>
-        <td>
-            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-        </td>
-    </tr>
-</table>
-
   
 ## 블로그
 ### https://velog.io/@posasac
