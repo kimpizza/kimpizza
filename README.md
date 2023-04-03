@@ -110,6 +110,7 @@
   ||CS|대칭키 vs 개인키|https://velog.io/@posasac/CS%EB%8C%80%EC%B9%AD%ED%82%A4-vs-%EA%B3%B5%EA%B0%9C%ED%82%A4%EB%B9%84%EB%8C%80%EC%B9%AD%ED%82%A4|
   |2023.03.30|Java|Apache vs Tomcat|https://velog.io/@posasac/CSApache-vs-Tomcat|
   |2023.04.01|CS|Cookie & Session|https://velog.io/@posasac/CS%EC%BF%A0%ED%82%A4Cookie%EC%99%80-%EC%84%B8%EC%85%98Session|
+  |2023.04.03|Java|Static|https://velog.io/@posasac/JavaStatic|
   </div> 
   
 </details>
