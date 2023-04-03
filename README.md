@@ -14,7 +14,7 @@
 
 <details>
 
-<summary>목차</summary>
+<summary>블로그 정리 내용 </summary>
   
 <div markdown="1">
 
