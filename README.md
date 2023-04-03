@@ -11,12 +11,11 @@
 ## 블로그
 ### https://velog.io/@posasac
 
-</div>
-
 <details>
   
-<summary>목차</summary>
-  
+<summary>#### 목차</summary>
+</div>
+
 <div markdown="1">
 
 |일 자|구 분|내 용|주 소|
