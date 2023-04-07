@@ -121,6 +121,7 @@
   |2023.04.01|CS|Cookie & Session|https://velog.io/@posasac/CS%EC%BF%A0%ED%82%A4Cookie%EC%99%80-%EC%84%B8%EC%85%98Session|
   |2023.04.03|Java|Static|https://velog.io/@posasac/JavaStatic|
   |2023.04.06|CS|서버 인증_HTTP|https://velog.io/@posasac/CS%EC%84%9C%EB%B2%84-%EC%9D%B8%EC%A6%9DHTTP|
+  |2023.04.07|CS|서버 인증_SSO|https://velog.io/@posasac/CS%EC%84%9C%EB%B2%84-%EC%9D%B8%EC%A6%9DSSO|
   </div> 
   
 </details>
