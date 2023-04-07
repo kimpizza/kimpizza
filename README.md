@@ -122,7 +122,7 @@
   |2023.04.03|Java|Static|https://velog.io/@posasac/JavaStatic|
   |2023.04.06|CS|서버 인증_HTTP|https://velog.io/@posasac/CS%EC%84%9C%EB%B2%84-%EC%9D%B8%EC%A6%9DHTTP|
   |2023.04.07|CS|서버 인증_SSO|https://velog.io/@posasac/CS%EC%84%9C%EB%B2%84-%EC%9D%B8%EC%A6%9DSSO|
-  ||CS|Etc|Error|https://velog.io/@posasac/i4h8osi0|
+  ||Etc|Error|https://velog.io/@posasac/i4h8osi0|
   </div> 
   
 </details>
