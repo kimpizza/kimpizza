@@ -124,6 +124,7 @@
   |2023.04.06|CS|서버 인증_HTTP|https://velog.io/@posasac/CS%EC%84%9C%EB%B2%84-%EC%9D%B8%EC%A6%9DHTTP|
   |2023.04.07|CS|서버 인증_SSO|https://velog.io/@posasac/CS%EC%84%9C%EB%B2%84-%EC%9D%B8%EC%A6%9DSSO|
   ||Etc|Error|https://velog.io/@posasac/i4h8osi0|
+  |2023.04.10|Etc|Http 상태코드|https://velog.io/@posasac/Etc.%EA%B7%B8%EA%B1%B4-%EC%95%84%EB%A7%88%EB%8F%84-%EB%8B%A4-%EB%8B%88-%EC%9E%98%EB%AA%BB%EC%9D%BC%EA%B1%B0%EC%95%BC-HTTP-%EC%83%81%ED%83%9C-%EC%BD%94%EB%93%9C-%EC%A0%95%EB%A6%AC|
   </div> 
   
 </details>
