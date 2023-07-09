@@ -133,6 +133,7 @@
   |2023.06.04|알고리즘|백준 2606|https://velog.io/@posasac/%EB%B0%B1%EC%A4%802606%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4-1gllyaox|
   |2023.06.13|알고리즘|백준 1600|https://velog.io/@posasac/%EB%B0%B1%EC%A4%801600%EB%A7%90%EC%9D%B4-%EB%90%98%EA%B3%A0%ED%94%88-%EC%9B%90%EC%88%AD%EC%9D%B4|
   |2023.07.03|알고리즘|백준 1389|https://velog.io/@posasac/%EB%B0%B1%EC%A4%801389%EC%BC%80%EB%B9%88-%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98-6%EB%8B%A8%EA%B3%84-%EB%B2%95%EC%B9%99|
+  |2023.07.09|알고리즘|백준 7576|https://velog.io/@posasac/%EB%B0%B1%EC%A4%807576%ED%86%A0%EB%A7%88%ED%86%A0|
   </div> 
   
 </details>   
