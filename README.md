@@ -12,10 +12,6 @@
 ## 블로그
 ### https://velog.io/@posasac
 </div>
-
-<details>
-
-<summary>블로그 정리 내용 </summary>
   
 <div markdown="1">
 
@@ -141,4 +137,3 @@
   |2023.09.03|Kotlin|코틀린 기본 문법_1|https://velog.io/@posasac/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95|
   </div> 
   
-</details>   
