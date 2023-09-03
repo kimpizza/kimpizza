@@ -137,6 +137,8 @@
   |2023.07.10|알고리즘|백준 11559|https://velog.io/@posasac/%EB%B0%B1%EC%A4%8011559Puyo-Puyo|
   |2023.07.11|Spring|트랜잭션|https://velog.io/@posasac/SpringTransaction|
   |2023.08.04|Etc|Postgres|https://velog.io/@posasac/PostgreSQL-M1-M2-PostgreSQL-%EC%84%A4%EC%B9%98-%EB%B0%8F-DB-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%83%9D%EC%84%B1|
+  |2023.09.02|알고리즘|백준 9081|https://velog.io/@posasac/%EB%B0%B1%EC%A4%809081%EB%8B%A8%EC%96%B4-%EB%A7%9E%EC%B6%94%EA%B8%B0|
+  |2023.09.03|Kotlin|코틀린 기본 문법_1|https://velog.io/@posasac/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95|
   </div> 
   
 </details>   
