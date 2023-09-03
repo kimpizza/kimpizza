@@ -23,7 +23,6 @@
 |||백준 4344|https://velog.io/@posasac/%EB%B0%B1%EC%A4%804344%ED%8F%89%EA%B7%A0%EC%9D%80-%EB%84%98%EA%B2%A0%EC%A7%80|
 |||백준 1152|https://velog.io/@posasac/%EB%B0%B1%EC%A4%801152%EB%8B%A8%EC%96%B4%EC%9D%98-%EA%B0%9C%EC%88%98|
 |||백준 2869|https://velog.io/@posasac/%EB%B0%B1%EC%A4%802869%EB%8B%AC%ED%8C%BD%EC%9D%B4%EB%8A%94-%EC%98%AC%EB%9D%BC%EA%B0%80%EA%B3%A0-%EC%8B%B6%EB%8B%A4|
-||정처기|1과목 기출풀이|https://velog.io/@posasac/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC1%EA%B3%BC%EB%AA%A9%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%84%A4%EA%B3%84|
 ||CS|디자인패턴:싱글톤패턴|https://velog.io/@posasac/CS%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4|
 |||SOLID 원칙|https://velog.io/@posasac/CS1.1-SOLID%EC%9B%90%EC%B9%99|
 |2023.01.27|CS|디자인패턴:팩토리패턴|https://velog.io/@posasac/1.-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%8C%A8%ED%84%B4|
