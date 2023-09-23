@@ -135,5 +135,6 @@
   |2023.09.02|알고리즘|백준 9081|https://velog.io/@posasac/%EB%B0%B1%EC%A4%809081%EB%8B%A8%EC%96%B4-%EB%A7%9E%EC%B6%94%EA%B8%B0|
   |2023.09.03|Kotlin|코틀린 기본 문법_1|https://velog.io/@posasac/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95|
   |2023.09.12|Kotlin|코틀린 기본 문법_2|https://velog.io/@posasac/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%952|
+  |2023.09.23|Kotlin|코틀린 기본 문법_3|https://velog.io/@posasac/Kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%953|
   </div> 
   
