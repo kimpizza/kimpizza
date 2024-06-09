@@ -140,5 +140,6 @@
   |2023.12.12|MyBatis|`<choose>`, `<when>`, `<otherwise>`|https://velog.io/@posasac/MyBatis-choose-when-otherwise|
   |2023.12.21|Java|StringUtils.isEmpty(), isBlank()|https://velog.io/@posasac/Java-StringUtils.isEmpty|
   |2024.03.27|Spring|Maven Wrapper|https://velog.io/@posasac/Spring-Maven-Wrapper|
+  |2024.06.09|SQL|평균 일일 대여 요금 구하기|https://velog.io/@posasac/SQL-%ED%8F%89%EA%B7%A0-%EC%9D%BC%EC%9D%BC-%EB%8C%80%EC%97%AC-%EC%9A%94%EA%B8%88-%EA%B5%AC%ED%95%98%EA%B8%B0|
   </div> 
   
