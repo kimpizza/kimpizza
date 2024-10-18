@@ -141,5 +141,7 @@
   |2023.12.21|Java|StringUtils.isEmpty(), isBlank()|https://velog.io/@posasac/Java-StringUtils.isEmpty|
   |2024.03.27|Spring|Maven Wrapper|https://velog.io/@posasac/Spring-Maven-Wrapper|
   |2024.06.09|SQL|평균 일일 대여 요금 구하기|https://velog.io/@posasac/SQL-%ED%8F%89%EA%B7%A0-%EC%9D%BC%EC%9D%BC-%EB%8C%80%EC%97%AC-%EC%9A%94%EA%B8%88-%EA%B5%AC%ED%95%98%EA%B8%B0|
+   |2024.10.15|DB|ANSI SQL과 MySQL|https://velog.io/@posasac/DB-ANSI-SQL%EA%B3%BC-MySQL|
+|2024.10.18|Spring|Server-Flutter Kakao Login|https://velog.io/@posasac/Spring-Server-Flutter-Kakao-Login|
   </div> 
   
