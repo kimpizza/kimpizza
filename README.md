@@ -143,5 +143,6 @@
   |2024.06.09|SQL|평균 일일 대여 요금 구하기|https://velog.io/@posasac/SQL-%ED%8F%89%EA%B7%A0-%EC%9D%BC%EC%9D%BC-%EB%8C%80%EC%97%AC-%EC%9A%94%EA%B8%88-%EA%B5%AC%ED%95%98%EA%B8%B0|
    |2024.10.15|DB|ANSI SQL과 MySQL|https://velog.io/@posasac/DB-ANSI-SQL%EA%B3%BC-MySQL|
 |2024.10.18|Spring|Server-Flutter Kakao Login|https://velog.io/@posasac/Spring-Server-Flutter-Kakao-Login|
+|2024.11.03|Spring|Flutter와 Spring Security를 활용한 OAuth2.0 인증 구현하기|https://velog.io/@posasac/Spring-Flutter%EC%99%80-Spring-Security%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-OAuth2.0-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0|
   </div> 
   
